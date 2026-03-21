@@ -1,2 +1,3 @@
-# auto-game-engine-gt16
-A repository to test GitHub automation for issue management
+# Auto Game Engine Gt16
+
+A repository to test GitHub automation for issue management.
